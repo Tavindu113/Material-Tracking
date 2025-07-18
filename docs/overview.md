@@ -68,4 +68,3 @@ This application offers a modular web-based interface for each production area (
 
 <img width="1785" height="2526" alt="Reccomendation from MAS_Page_1" src="https://github.com/user-attachments/assets/35152b87-9ac3-4c94-9a32-b3162277d18e" />
 <img width="1785" height="2526" alt="Reccomendation from MAS_Page_2" src="https://github.com/user-attachments/assets/32615932-871a-45ea-b15a-3550cd94b99c" />
-
