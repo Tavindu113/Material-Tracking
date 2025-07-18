@@ -6,7 +6,7 @@ MAS Intimates Linea Clothing, Pallekale, Sri-Lanka. operate as 2 facilities. Sin
 
 - Eliminate manual data entry and tracking processes
 - Enable digital, real-time updates of material flow
-- Improve traceability across production stages
+- Improve traceability across processing stage
 - Provide analytics for decision-making using Power BI
 
 ## Problem Statement
@@ -18,7 +18,7 @@ Previously, material tracking was done through paper logs or Excel files, leadin
 
 ## Solution Summary
 
-This application offers a modular web-based interface for each production area (e.g., Poly Bag Shop, Thread Shop, System 261), allowing operators and supervisors to interact with live data using QR/barcode scanning and automated logging.
+This application offers a modular web-based interface for each processing area (e.g., Poly Bag Shop, Thread Shop, System 261), allowing operators and supervisors to interact with live data. The status updating use mannual update or updating using QR/barcode scanning and. To prevent the unortharized acces all users were directed to login screen and then directed to respective shop screen which they belongs.
 
 ---
 
